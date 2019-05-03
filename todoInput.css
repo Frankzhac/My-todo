@@ -1,0 +1,30 @@
+.btn {
+  outline: none;
+  box-shadow: none;
+  border-radius: 2px;
+  border-style: solid;
+  padding: 8px;
+}
+
+.btn-primary {
+  color: white;
+  border-color: #6a2c70;
+  background-color: #b83b5e;
+}
+
+input {
+  width: 80%;
+  border: none;
+  border-top: 2px solid #b83b5e;
+  border-bottom: 2px solid #b83b5e;
+  margin-right: 10px;
+  padding: 5px;
+  line-height: 20px;
+}
+
+input:focus {
+  outline: none;
+  border: none;
+  border-top: 2px solid #b83b5e;
+  border-bottom: 2px solid #b83b5e;
+}
